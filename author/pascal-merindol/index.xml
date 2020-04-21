@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pascal Mérindol | Loïc Miller</title>
-    <link>loicmiller.github.io/author/pascal-merindol/</link>
-      <atom:link href="loicmiller.github.io/author/pascal-merindol/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://loicmiller.com/author/pascal-merindol/</link>
+      <atom:link href="https://loicmiller.com/author/pascal-merindol/index.xml" rel="self" type="application/rss+xml" />
     <description>Pascal Mérindol</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Loïc Miller</copyright><lastBuildDate>Tue, 08 Oct 2019 09:00:00 +0000</lastBuildDate>
     <image>
-      <url>/loicmiller.github.io/images/icon_hu1e87ff2de7ec7802ef4be14ed2f43e06_16349_512x512_fill_lanczos_center_2.png</url>
+      <url>https://loicmiller.com/images/icon_hu1e87ff2de7ec7802ef4be14ed2f43e06_16349_512x512_fill_lanczos_center_2.png</url>
       <title>Pascal Mérindol</title>
-      <link>loicmiller.github.io/author/pascal-merindol/</link>
+      <link>https://loicmiller.com/author/pascal-merindol/</link>
     </image>
     
     <item>
       <title>Securing Workflows Using Microservices</title>
-      <link>loicmiller.github.io/talk/securing-workflows-using-microservices/</link>
+      <link>https://loicmiller.com/talk/securing-workflows-using-microservices/</link>
       <pubDate>Tue, 08 Oct 2019 09:00:00 +0000</pubDate>
-      <guid>loicmiller.github.io/talk/securing-workflows-using-microservices/</guid>
+      <guid>https://loicmiller.com/talk/securing-workflows-using-microservices/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Securing Workflows Using the Microservices Architecture</title>
-      <link>loicmiller.github.io/talk/securing-workflows-using-the-microservices-architecture/</link>
+      <link>https://loicmiller.com/talk/securing-workflows-using-the-microservices-architecture/</link>
       <pubDate>Thu, 20 Jun 2019 13:00:00 +0000</pubDate>
-      <guid>loicmiller.github.io/talk/securing-workflows-using-the-microservices-architecture/</guid>
+      <guid>https://loicmiller.com/talk/securing-workflows-using-the-microservices-architecture/</guid>
       <description></description>
     </item>
     

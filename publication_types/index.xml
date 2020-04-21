@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types | Loïc Miller</title>
-    <link>loicmiller.github.io/publication_types/</link>
-      <atom:link href="loicmiller.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://loicmiller.com/publication_types/</link>
+      <atom:link href="https://loicmiller.com/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Loïc Miller</copyright><lastBuildDate>Mon, 23 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/loicmiller.github.io/images/icon_hu1e87ff2de7ec7802ef4be14ed2f43e06_16349_512x512_fill_lanczos_center_2.png</url>
+      <url>https://loicmiller.com/images/icon_hu1e87ff2de7ec7802ef4be14ed2f43e06_16349_512x512_fill_lanczos_center_2.png</url>
       <title>Publication_types</title>
-      <link>loicmiller.github.io/publication_types/</link>
+      <link>https://loicmiller.com/publication_types/</link>
     </image>
     
   </channel>
