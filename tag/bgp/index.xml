@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BGP | Loïc Miller</title>
+    <link>loicmiller.github.io/tag/bgp/</link>
+      <atom:link href="loicmiller.github.io/tag/bgp/index.xml" rel="self" type="application/rss+xml" />
+    <description>BGP</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Loïc Miller</copyright><lastBuildDate>Mon, 23 Sep 2019 10:55:00 +0000</lastBuildDate>
+    <image>
+      <url>/loicmiller.github.io/images/icon_hu1e87ff2de7ec7802ef4be14ed2f43e06_16349_512x512_fill_lanczos_center_2.png</url>
+      <title>BGP</title>
+      <link>loicmiller.github.io/tag/bgp/</link>
+    </image>
+    
+    <item>
+      <title>A Taxonomy of Attacks Using BGP Blackholing</title>
+      <link>loicmiller.github.io/talk/a-taxonomy-of-attacks-using-bgp-blackholing/</link>
+      <pubDate>Mon, 23 Sep 2019 10:55:00 +0000</pubDate>
+      <guid>loicmiller.github.io/talk/a-taxonomy-of-attacks-using-bgp-blackholing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Taxonomy of Attacks Using BGP Blackholing</title>
+      <link>loicmiller.github.io/publication/a-taxonomy-of-attacks-using-bgp-blackholing/</link>
+      <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>loicmiller.github.io/publication/a-taxonomy-of-attacks-using-bgp-blackholing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
