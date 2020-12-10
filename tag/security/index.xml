@@ -1,21 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Security | Loïc Miller</title>
+    <title>Security on Loïc Miller</title>
     <link>https://loicmiller.com/tag/security/</link>
-      <atom:link href="https://loicmiller.com/tag/security/index.xml" rel="self" type="application/rss+xml" />
-    <description>Security</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Loïc Miller</copyright><lastBuildDate>Tue, 08 Oct 2019 09:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://loicmiller.com/images/icon_hu1e87ff2de7ec7802ef4be14ed2f43e06_16349_512x512_fill_lanczos_center_2.png</url>
-      <title>Security</title>
-      <link>https://loicmiller.com/tag/security/</link>
-    </image>
+    <description>Recent content in Security on Loïc Miller</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Loïc Miller</copyright>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://loicmiller.com/tag/security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Towards Secure and Leak-Free Workflows Using Microservice Isolation</title>
+      <link>https://loicmiller.com/publication/towards-secure-and-leak-free-workflows-using-microservice-isolation/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://loicmiller.com/publication/towards-secure-and-leak-free-workflows-using-microservice-isolation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Securing Workflows Using Microservices</title>
       <link>https://loicmiller.com/talk/securing-workflows-using-microservices/</link>
       <pubDate>Tue, 08 Oct 2019 09:00:00 +0000</pubDate>
+      
       <guid>https://loicmiller.com/talk/securing-workflows-using-microservices/</guid>
       <description></description>
     </item>
@@ -24,6 +30,7 @@
       <title>A Taxonomy of Attacks Using BGP Blackholing</title>
       <link>https://loicmiller.com/talk/a-taxonomy-of-attacks-using-bgp-blackholing/</link>
       <pubDate>Mon, 23 Sep 2019 10:55:00 +0000</pubDate>
+      
       <guid>https://loicmiller.com/talk/a-taxonomy-of-attacks-using-bgp-blackholing/</guid>
       <description></description>
     </item>
@@ -32,6 +39,7 @@
       <title>A Taxonomy of Attacks Using BGP Blackholing</title>
       <link>https://loicmiller.com/publication/a-taxonomy-of-attacks-using-bgp-blackholing/</link>
       <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
+      
       <guid>https://loicmiller.com/publication/a-taxonomy-of-attacks-using-bgp-blackholing/</guid>
       <description></description>
     </item>
@@ -40,6 +48,7 @@
       <title>Securing Workflows Using the Microservices Architecture</title>
       <link>https://loicmiller.com/talk/securing-workflows-using-the-microservices-architecture/</link>
       <pubDate>Thu, 20 Jun 2019 13:00:00 +0000</pubDate>
+      
       <guid>https://loicmiller.com/talk/securing-workflows-using-the-microservices-architecture/</guid>
       <description></description>
     </item>

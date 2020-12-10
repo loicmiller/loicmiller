@@ -1,21 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Loïc Miller</title>
+    <title>Publications on Loïc Miller</title>
     <link>https://loicmiller.com/publication/</link>
-      <atom:link href="https://loicmiller.com/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Loïc Miller</copyright>
-    <image>
-      <url>https://loicmiller.com/images/icon_hu1e87ff2de7ec7802ef4be14ed2f43e06_16349_512x512_fill_lanczos_center_2.png</url>
-      <title>Publications</title>
-      <link>https://loicmiller.com/publication/</link>
-    </image>
+    <description>Recent content in Publications on Loïc Miller</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Loïc Miller</copyright><atom:link href="https://loicmiller.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Towards Secure and Leak-Free Workflows Using Microservice Isolation</title>
+      <link>https://loicmiller.com/publication/towards-secure-and-leak-free-workflows-using-microservice-isolation/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://loicmiller.com/publication/towards-secure-and-leak-free-workflows-using-microservice-isolation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Taxonomy of Attacks Using BGP Blackholing</title>
       <link>https://loicmiller.com/publication/a-taxonomy-of-attacks-using-bgp-blackholing/</link>
       <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
+      
       <guid>https://loicmiller.com/publication/a-taxonomy-of-attacks-using-bgp-blackholing/</guid>
       <description></description>
     </item>

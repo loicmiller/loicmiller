@@ -1,16 +1,120 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | Loïc Miller</title>
+    <title>Tags on Loïc Miller</title>
     <link>https://loicmiller.com/tags/</link>
-      <atom:link href="https://loicmiller.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Loïc Miller</copyright><lastBuildDate>Tue, 08 Oct 2019 09:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://loicmiller.com/images/icon_hu1e87ff2de7ec7802ef4be14ed2f43e06_16349_512x512_fill_lanczos_center_2.png</url>
-      <title>Tags</title>
-      <link>https://loicmiller.com/tags/</link>
-    </image>
+    <description>Recent content in Tags on Loïc Miller</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Loïc Miller</copyright>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://loicmiller.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data breach</title>
+      <link>https://loicmiller.com/tag/data-breach/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://loicmiller.com/tag/data-breach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data leak</title>
+      <link>https://loicmiller.com/tag/data-leak/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://loicmiller.com/tag/data-leak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microservices</title>
+      <link>https://loicmiller.com/tag/microservices/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://loicmiller.com/tag/microservices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>https://loicmiller.com/tag/security/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://loicmiller.com/tag/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workflow</title>
+      <link>https://loicmiller.com/tag/workflow/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://loicmiller.com/tag/workflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Access Control</title>
+      <link>https://loicmiller.com/tag/access-control/</link>
+      <pubDate>Tue, 08 Oct 2019 09:00:00 +0000</pubDate>
+      
+      <guid>https://loicmiller.com/tag/access-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BGP</title>
+      <link>https://loicmiller.com/tag/bgp/</link>
+      <pubDate>Mon, 23 Sep 2019 10:55:00 +0000</pubDate>
+      
+      <guid>https://loicmiller.com/tag/bgp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blackholing</title>
+      <link>https://loicmiller.com/tag/blackholing/</link>
+      <pubDate>Mon, 23 Sep 2019 10:55:00 +0000</pubDate>
+      
+      <guid>https://loicmiller.com/tag/blackholing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Communities</title>
+      <link>https://loicmiller.com/tag/communities/</link>
+      <pubDate>Mon, 23 Sep 2019 10:55:00 +0000</pubDate>
+      
+      <guid>https://loicmiller.com/tag/communities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DDoS</title>
+      <link>https://loicmiller.com/tag/ddos/</link>
+      <pubDate>Mon, 23 Sep 2019 10:55:00 +0000</pubDate>
+      
+      <guid>https://loicmiller.com/tag/ddos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hijacks</title>
+      <link>https://loicmiller.com/tag/hijacks/</link>
+      <pubDate>Mon, 23 Sep 2019 10:55:00 +0000</pubDate>
+      
+      <guid>https://loicmiller.com/tag/hijacks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leaks</title>
+      <link>https://loicmiller.com/tag/leaks/</link>
+      <pubDate>Mon, 23 Sep 2019 10:55:00 +0000</pubDate>
+      
+      <guid>https://loicmiller.com/tag/leaks/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

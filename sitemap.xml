@@ -3,57 +3,82 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://loicmiller.com/publication-type/3/</loc>
+    <lastmod>2020-12-10T23:07:17+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://loicmiller.com/author/antoine-gallais-and-cristel-pelsser/</loc>
+    <lastmod>2020-12-10T23:07:17+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://loicmiller.com/authors/</loc>
+    <lastmod>2020-12-10T23:07:17+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://loicmiller.com/tag/data-breach/</loc>
+    <lastmod>2020-12-10T23:07:17+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://loicmiller.com/tag/data-leak/</loc>
+    <lastmod>2020-12-10T23:07:17+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://loicmiller.com/author/loic-miller/</loc>
+    <lastmod>2020-12-10T23:07:17+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://loicmiller.com/</loc>
+    <lastmod>2020-12-10T23:07:17+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://loicmiller.com/tag/microservices/</loc>
+    <lastmod>2020-12-10T23:07:17+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://loicmiller.com/author/pascal-merindol/</loc>
+    <lastmod>2020-12-10T23:07:17+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://loicmiller.com/publication_types/</loc>
+    <lastmod>2020-12-10T23:07:17+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://loicmiller.com/tag/security/</loc>
+    <lastmod>2020-12-10T23:07:17+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://loicmiller.com/tags/</loc>
+    <lastmod>2020-12-10T23:07:17+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://loicmiller.com/publication/towards-secure-and-leak-free-workflows-using-microservice-isolation/</loc>
+    <lastmod>2020-12-10T23:07:17+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://loicmiller.com/tag/workflow/</loc>
+    <lastmod>2020-12-10T23:07:17+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://loicmiller.com/tag/access-control/</loc>
     <lastmod>2020-04-21T16:54:54+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://loicmiller.com/author/antoine-gallais-and-cristel-pelsser/</loc>
-    <lastmod>2020-04-21T16:54:54+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://loicmiller.com/authors/</loc>
-    <lastmod>2020-04-21T16:54:54+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://loicmiller.com/tag/data-leak/</loc>
-    <lastmod>2020-04-21T16:54:54+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://loicmiller.com/author/loic-miller/</loc>
-    <lastmod>2020-04-21T16:54:54+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://loicmiller.com/tag/microservices/</loc>
-    <lastmod>2020-04-21T16:54:54+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://loicmiller.com/author/pascal-merindol/</loc>
-    <lastmod>2020-04-21T16:54:54+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://loicmiller.com/talk/securing-workflows-using-microservices/</loc>
-    <lastmod>2020-04-21T16:54:54+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://loicmiller.com/tag/security/</loc>
-    <lastmod>2020-04-21T16:54:54+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://loicmiller.com/tags/</loc>
-    <lastmod>2020-04-21T16:54:54+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://loicmiller.com/tag/workflow/</loc>
     <lastmod>2020-04-21T16:54:54+02:00</lastmod>
   </url>
   
@@ -108,11 +133,6 @@
   </url>
   
   <url>
-    <loc>https://loicmiller.com/publication_types/</loc>
-    <lastmod>2020-04-21T16:54:54+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://loicmiller.com/talk/securing-workflows-using-the-microservices-architecture/</loc>
     <lastmod>2020-04-21T16:54:54+02:00</lastmod>
   </url>
@@ -124,11 +144,6 @@
   
   <url>
     <loc>https://loicmiller.com/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://loicmiller.com/</loc>
-    <lastmod>2019-03-17T20:39:18+00:00</lastmod>
   </url>
   
   <url>
