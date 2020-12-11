@@ -1,0 +1,79 @@
+---
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
+title: "Towards Secure and Leak-Free Workflows Using Microservice Isolation"
+authors: [Loïc Miller, Pascal Mérindol, Antoine Gallais, Cristel Pelsser]
+date: 2020-12-01
+doi: "https://doi.org/10.1007/978-3-030-29959-0_6"
+
+# Schedule page publish date (NOT publication's date).
+publishDate: 2020-12-09T12:59:22+02:00
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["3"]
+
+# Publication name and optional abbreviated publication name.
+publication: "[arXiv](https://arxiv.org/) (arXiv)"
+publication_short: "arXiv"
+
+abstract: "Data leaks and breaches are on the rise.
+They result in huge losses of money for businesses like the movie industry, as well as a loss of user privacy for businesses dealing with user data like the pharmaceutical industry.
+Preventing data exposures is challenging, because the causes for such events are various, ranging from hacking to misconfigured databases.
+Alongside the surge in data exposures, the recent rise of microservices as a paradigm brings the need to not only secure traffic at the border of the network, but also internally, pressing the adoption of new security models such as zero-trust to secure business processes.
+
+Business processes can be modeled as workflows, where the owner of the data at risk interacts with contractors to realize a sequence of tasks on this data.
+In this paper, we show how those workflows can be enforced while preventing data exposure.
+Following the principles of zero-trust, we develop an infrastructure using the isolation provided by a microservice architecture, to enforce owner policy.
+We show that our infrastructure is resilient to the set of attacks considered in our security model. We implement a simple, yet realistic, workflow with our infrastructure in a publicly available proof of concept.
+We then verify that the specified policy is correctly enforced by testing the deployment for policy violations, and estimate the overhead cost of authorization."
+
+# Summary. An optional shortened abstract.
+summary: ""
+
+tags: [Data leak, Data breach, Workflow, Microservices, Security]
+categories: []
+featured: false
+
+# Custom links (optional).
+#   Uncomment and edit lines below to show custom links.
+# links:
+# - name: Follow
+#   url: https://twitter.com
+#   icon_pack: fab
+#   icon: twitter
+
+url_pdf:
+url_code:
+url_dataset:
+url_poster:
+url_project:
+url_slides:
+url_source:
+url_video:
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: ""
+---
+
