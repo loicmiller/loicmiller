@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Loïc Miller</title>
+    <link>https://loicmiller.com/post/</link>
+      <atom:link href="https://loicmiller.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Loïc Miller</copyright>
+    <image>
+      <url>https://loicmiller.com/media/icon_hu1e87ff2de7ec7802ef4be14ed2f43e06_16349_512x512_fill_lanczos_center_2.png</url>
+      <title>Posts</title>
+      <link>https://loicmiller.com/post/</link>
+    </image>
+    
+  </channel>
+</rss>
