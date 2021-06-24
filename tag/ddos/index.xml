@@ -1,18 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DDoS on Loïc Miller</title>
+    <title>DDoS | Loïc Miller</title>
     <link>https://loicmiller.com/tag/ddos/</link>
-    <description>Recent content in DDoS on Loïc Miller</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year} Loïc Miller</copyright>
-    <lastBuildDate>Mon, 23 Sep 2019 10:55:00 +0000</lastBuildDate><atom:link href="https://loicmiller.com/tag/ddos/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://loicmiller.com/tag/ddos/index.xml" rel="self" type="application/rss+xml" />
+    <description>DDoS</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Loïc Miller</copyright><lastBuildDate>Mon, 23 Sep 2019 10:55:00 +0000</lastBuildDate>
+    <image>
+      <url>https://loicmiller.com/media/icon_hu1e87ff2de7ec7802ef4be14ed2f43e06_16349_512x512_fill_lanczos_center_2.png</url>
+      <title>DDoS</title>
+      <link>https://loicmiller.com/tag/ddos/</link>
+    </image>
+    
     <item>
       <title>A Taxonomy of Attacks Using BGP Blackholing</title>
       <link>https://loicmiller.com/talk/a-taxonomy-of-attacks-using-bgp-blackholing/</link>
       <pubDate>Mon, 23 Sep 2019 10:55:00 +0000</pubDate>
-      
       <guid>https://loicmiller.com/talk/a-taxonomy-of-attacks-using-bgp-blackholing/</guid>
       <description></description>
     </item>
@@ -21,8 +24,30 @@
       <title>A Taxonomy of Attacks Using BGP Blackholing</title>
       <link>https://loicmiller.com/publication/a-taxonomy-of-attacks-using-bgp-blackholing/</link>
       <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://loicmiller.com/publication/a-taxonomy-of-attacks-using-bgp-blackholing/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BGP Blackholing Attack Defense</title>
+      <link>https://loicmiller.com/talk/bgp-blackholing-attack-defense/</link>
+      <pubDate>Fri, 18 Jan 2019 10:15:00 +0000</pubDate>
+      <guid>https://loicmiller.com/talk/bgp-blackholing-attack-defense/</guid>
       <description></description>
     </item>
     

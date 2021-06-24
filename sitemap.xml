@@ -1,174 +1,107 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://loicmiller.com/publication-type/3/</loc>
-    <lastmod>2020-12-11T09:22:15+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://loicmiller.com/author/antoine-gallais/</loc>
-    <lastmod>2020-12-11T09:22:15+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://loicmiller.com/authors/</loc>
-    <lastmod>2020-12-11T09:22:15+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://loicmiller.com/author/cristel-pelsser/</loc>
-    <lastmod>2020-12-11T09:22:15+01:00</lastmod>
-  </url>
-  
-  <url>
+    <loc>https://loicmiller.com/tag/authorization/</loc>
+    <lastmod>2021-06-08T17:15:00+00:00</lastmod>
+  </url><url>
     <loc>https://loicmiller.com/tag/data-breach/</loc>
-    <lastmod>2020-12-11T09:22:15+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-06-08T17:15:00+00:00</lastmod>
+  </url><url>
     <loc>https://loicmiller.com/tag/data-leak/</loc>
-    <lastmod>2020-12-11T09:22:15+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://loicmiller.com/author/loic-miller/</loc>
-    <lastmod>2020-12-11T09:22:15+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-06-08T17:15:00+00:00</lastmod>
+  </url><url>
     <loc>https://loicmiller.com/</loc>
-    <lastmod>2020-12-11T09:22:15+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-06-08T17:15:00+00:00</lastmod>
+  </url><url>
     <loc>https://loicmiller.com/tag/microservices/</loc>
-    <lastmod>2020-12-11T09:22:15+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://loicmiller.com/author/pascal-merindol/</loc>
-    <lastmod>2020-12-11T09:22:15+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://loicmiller.com/publication_types/</loc>
-    <lastmod>2020-12-11T09:22:15+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-06-08T17:15:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/event/</loc>
+    <lastmod>2021-06-08T17:15:00+00:00</lastmod>
+  </url><url>
     <loc>https://loicmiller.com/tag/security/</loc>
-    <lastmod>2020-12-11T09:22:15+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-06-08T17:15:00+00:00</lastmod>
+  </url><url>
     <loc>https://loicmiller.com/tags/</loc>
-    <lastmod>2020-12-11T09:22:15+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://loicmiller.com/publication/secure-workflow/</loc>
-    <lastmod>2020-12-11T09:22:15+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://loicmiller.com/publication/towards-secure-and-leak-free-workflows-using-microservice-isolation/</loc>
-    <lastmod>2020-12-10T23:45:58+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-06-08T17:15:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/talk/towards-secure-and-leak-free-workflows-using-microservice-isolation/</loc>
+    <lastmod>2021-06-08T17:15:00+00:00</lastmod>
+  </url><url>
     <loc>https://loicmiller.com/tag/workflow/</loc>
-    <lastmod>2020-12-11T09:22:15+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-06-08T17:15:00+00:00</lastmod>
+  </url><url>
     <loc>https://loicmiller.com/tag/access-control/</loc>
-    <lastmod>2020-12-10T23:45:58+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://loicmiller.com/talk/securing-workflows-using-microservices/</loc>
-    <lastmod>2020-12-10T23:45:58+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://loicmiller.com/talk/a-taxonomy-of-attacks-using-bgp-blackholing/</loc>
-    <lastmod>2020-12-10T23:45:58+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://loicmiller.com/tag/bgp/</loc>
-    <lastmod>2020-12-10T23:45:58+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://loicmiller.com/tag/blackholing/</loc>
-    <lastmod>2020-12-10T23:45:58+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://loicmiller.com/tag/communities/</loc>
-    <lastmod>2020-12-10T23:45:58+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://loicmiller.com/tag/ddos/</loc>
-    <lastmod>2020-12-10T23:45:58+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://loicmiller.com/tag/hijacks/</loc>
-    <lastmod>2020-12-10T23:45:58+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://loicmiller.com/tag/leaks/</loc>
-    <lastmod>2020-12-10T23:45:58+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-06-08T17:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/tag/metagraphs/</loc>
+    <lastmod>2021-06-08T17:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/tag/policy-modeling/</loc>
+    <lastmod>2021-06-08T17:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/tag/policy-verification/</loc>
+    <lastmod>2021-06-08T17:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/tag/rego/</loc>
+    <lastmod>2021-06-08T17:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/talk/verification-of-cloud-security-policies/</loc>
+    <lastmod>2021-06-08T17:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://loicmiller.com/publication-type/1/</loc>
-    <lastmod>2020-12-10T23:45:58+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://loicmiller.com/publication/a-taxonomy-of-attacks-using-bgp-blackholing/</loc>
-    <lastmod>2020-12-10T23:45:58+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://loicmiller.com/talk/securing-workflows-using-the-microservices-architecture/</loc>
-    <lastmod>2020-12-10T23:45:58+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://loicmiller.com/talk/bgp-blackholing-attack-defense/</loc>
-    <lastmod>2020-04-21T16:54:54+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://loicmiller.com/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://loicmiller.com/author/loic-miller/</loc>
-    <lastmod>2020-04-21T16:54:54+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://loicmiller.com/post/</loc>
-    <lastmod>2019-05-06T17:54:11+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/publication_types/</loc>
+    <lastmod>2021-06-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://loicmiller.com/publication/</loc>
-    <lastmod>2019-05-06T17:54:11+01:00</lastmod>
+    <lastmod>2021-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/publication/towards-secure-and-leak-free-workflows-using-microservices/</loc>
+    <lastmod>2021-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/publication/verification-of-cloud-security-policies/</loc>
+    <lastmod>2021-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/talk/securing-workflows-using-microservices/</loc>
+    <lastmod>2019-10-08T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/talk/a-taxonomy-of-attacks-using-bgp-blackholing/</loc>
+    <lastmod>2019-09-23T10:55:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/tag/bgp/</loc>
+    <lastmod>2019-09-23T10:55:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/tag/blackholing/</loc>
+    <lastmod>2019-09-23T10:55:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/tag/communities/</loc>
+    <lastmod>2019-09-23T10:55:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/tag/ddos/</loc>
+    <lastmod>2019-09-23T10:55:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/tag/hijacks/</loc>
+    <lastmod>2019-09-23T10:55:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/tag/leaks/</loc>
+    <lastmod>2019-09-23T10:55:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/publication/a-taxonomy-of-attacks-using-bgp-blackholing/</loc>
+    <lastmod>2019-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/talk/securing-workflows-using-the-microservices-architecture/</loc>
+    <lastmod>2019-06-20T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/talk/bgp-blackholing-attack-defense/</loc>
+    <lastmod>2019-01-18T10:15:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/admin/</loc>
+  </url><url>
+    <loc>https://loicmiller.com/categories/</loc>
+  </url><url>
+    <loc>https://loicmiller.com/post/</loc>
   </url>
-  
-  <url>
-    <loc>https://loicmiller.com/talk/</loc>
-    <lastmod>2020-04-21T16:54:54+02:00</lastmod>
-  </url>
-  
 </urlset>
