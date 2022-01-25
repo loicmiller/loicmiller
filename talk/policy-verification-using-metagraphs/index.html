@@ -30,11 +30,12 @@
   
     
   
-  <meta name="description" content="Les fuites de données au repos sont malheureusement courantes et en augmentation, entrainant des pertes de profits pour les entreprises ou le non-respect de confidentialité de données personnelles sensibles. La récente montée en puissance des micro-services, en tant que paradigme de déploiement extensible, impose également la sécurisation du trafic. Un processus métier peut être modélisé sous la forme d&#39;un workflow : le propriétaire des données interagit avec des sous-traitants pour réaliser une séquence de tâches.
-Dans cet article, nous montrons comment ces workflows peuvent être appliqués tout en limitant l&#39;exposition des données. En suivant les principes du zero-trust, nous proposons une infrastructure utilisant l&#39;isolation fournie par les micro-services pour mettre en oeuvre un workflow, dans une preuve de concept disponible en ligne. Nous vérifions ensuite que les politiques de sécurité sont correctement appliquées, et estimons le coût supplémentaire induit par les dispositifs de sécurité." />
+  <meta name="description" content="Business processes can be modeled as workflows, where the owner of the data at risk interacts with contractors to realize a sequence of tasks on the data to be secured.
+In practice, access control is an essential building block to deploy these secured workflows. This component is generally managed by administrators using high-level policies meant to represent the requirements and restrictions put on the workflow. Handling access control with a high-level scheme comes with the benefit of separating the problem of specification, i.e. defining the desired behavior of the system, from the problem of implementation, i.e. enforcing this desired behavior. However, translating such high-level policies into a deployed implementation can be error-prone.
+Even though semi-automatic and automatic tools have been proposed to assist this translation, policy verification remains highly challenging in practice. In this paper, our aim is to define and propose constructs assisting the checking and correction of potential errors introduced on the ground due to a faulty translation or corrupted deployments. In particular, we investigate structures with formal foundations able to naturally model policies. Metagraphs, a generalized graph theoretic structure, fulfill those requirements: their usage enables to compare high-level policies to their implementation (in practice we consider Rego as a valuable representative of most common policy languages). We propose a suite of tools transforming and checking policies as metagraphs, and use them in a global framework to show how policy verification can be achieved with such constructs. Finally, we evaluate the performance of our verification method." />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://loicmiller.com/publication/protection-contre-les-fuites-de-donnees-un-environnement-microservices-securise/" />
+  <link rel="alternate" hreflang="en-us" href="https://loicmiller.com/talk/policy-verification-using-metagraphs/" />
 
   
 
@@ -274,7 +275,7 @@ Dans cet article, nous montrons comment ces workflows peuvent être appliqués t
   <link rel="icon" type="image/png" href="/media/icon_hu1e87ff2de7ec7802ef4be14ed2f43e06_16349_32x32_fill_lanczos_center_2.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu1e87ff2de7ec7802ef4be14ed2f43e06_16349_180x180_fill_lanczos_center_2.png" />
 
-  <link rel="canonical" href="https://loicmiller.com/publication/protection-contre-les-fuites-de-donnees-un-environnement-microservices-securise/" />
+  <link rel="canonical" href="https://loicmiller.com/talk/policy-verification-using-metagraphs/" />
 
   
   
@@ -291,30 +292,28 @@ Dans cet article, nous montrons comment ces workflows peuvent être appliqués t
   <meta property="twitter:card" content="summary" />
   
   <meta property="og:site_name" content="Loïc Miller" />
-  <meta property="og:url" content="https://loicmiller.com/publication/protection-contre-les-fuites-de-donnees-un-environnement-microservices-securise/" />
-  <meta property="og:title" content="Protection contre les fuites de données: un environnement micro-services sécurisé | Loïc Miller" />
-  <meta property="og:description" content="Les fuites de données au repos sont malheureusement courantes et en augmentation, entrainant des pertes de profits pour les entreprises ou le non-respect de confidentialité de données personnelles sensibles. La récente montée en puissance des micro-services, en tant que paradigme de déploiement extensible, impose également la sécurisation du trafic. Un processus métier peut être modélisé sous la forme d&#39;un workflow : le propriétaire des données interagit avec des sous-traitants pour réaliser une séquence de tâches.
-Dans cet article, nous montrons comment ces workflows peuvent être appliqués tout en limitant l&#39;exposition des données. En suivant les principes du zero-trust, nous proposons une infrastructure utilisant l&#39;isolation fournie par les micro-services pour mettre en oeuvre un workflow, dans une preuve de concept disponible en ligne. Nous vérifions ensuite que les politiques de sécurité sont correctement appliquées, et estimons le coût supplémentaire induit par les dispositifs de sécurité." /><meta property="og:image" content="https://loicmiller.com/media/icon_hu1e87ff2de7ec7802ef4be14ed2f43e06_16349_512x512_fill_lanczos_center_2.png" />
+  <meta property="og:url" content="https://loicmiller.com/talk/policy-verification-using-metagraphs/" />
+  <meta property="og:title" content="Policy Verification Using Metagraphs | Loïc Miller" />
+  <meta property="og:description" content="Business processes can be modeled as workflows, where the owner of the data at risk interacts with contractors to realize a sequence of tasks on the data to be secured.
+In practice, access control is an essential building block to deploy these secured workflows. This component is generally managed by administrators using high-level policies meant to represent the requirements and restrictions put on the workflow. Handling access control with a high-level scheme comes with the benefit of separating the problem of specification, i.e. defining the desired behavior of the system, from the problem of implementation, i.e. enforcing this desired behavior. However, translating such high-level policies into a deployed implementation can be error-prone.
+Even though semi-automatic and automatic tools have been proposed to assist this translation, policy verification remains highly challenging in practice. In this paper, our aim is to define and propose constructs assisting the checking and correction of potential errors introduced on the ground due to a faulty translation or corrupted deployments. In particular, we investigate structures with formal foundations able to naturally model policies. Metagraphs, a generalized graph theoretic structure, fulfill those requirements: their usage enables to compare high-level policies to their implementation (in practice we consider Rego as a valuable representative of most common policy languages). We propose a suite of tools transforming and checking policies as metagraphs, and use them in a global framework to show how policy verification can be achieved with such constructs. Finally, we evaluate the performance of our verification method." /><meta property="og:image" content="https://loicmiller.com/media/icon_hu1e87ff2de7ec7802ef4be14ed2f43e06_16349_512x512_fill_lanczos_center_2.png" />
     <meta property="twitter:image" content="https://loicmiller.com/media/icon_hu1e87ff2de7ec7802ef4be14ed2f43e06_16349_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
         property="article:published_time"
-        content="2021-08-07T00:00:00&#43;00:00"
+        content="2021-08-31T00:00:00&#43;00:00"
       />
     
-    <meta property="article:modified_time" content="2021-08-07T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2021-08-31T17:15:00&#43;00:00">
   
 
   
 
 
+
+  
     
-
-
-
-
-
 
 
 
@@ -322,30 +321,39 @@ Dans cet article, nous montrons comment ces workflows peuvent être appliqués t
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
+  "@type": "Event",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://loicmiller.com/publication/protection-contre-les-fuites-de-donnees-un-environnement-microservices-securise/"
+    "@id": "https://loicmiller.com/talk/policy-verification-using-metagraphs/"
   },
-  "headline": "Protection contre les fuites de données: un environnement micro-services sécurisé",
+  "name": "Policy Verification Using Metagraphs",
   
-  "datePublished": "2021-08-07T00:00:00Z",
-  "dateModified": "2021-08-07T00:00:00Z",
+  "location": {
+    "@type": "Place",
+    "name": "Bertinoro",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Via Frangipane 6",
+      "addressLocality": "Bertinoro",
+      "postalCode":  47032 ,
+      "addressRegion": "Emilia-Romagna",
+      "addressCountry": "Italy"
+    }
+    
+  },
   
-  "author": {
+  
+  "startDate": "2021-08-31T17:15:00Z",
+  
+  "endDate": "2021-08-31T17:35:00Z",
+  
+  
+  "performer": {
     "@type": "Person",
     "name": "Loïc Miller"
   },
   
-  "publisher": {
-    "@type": "Organization",
-    "name": "Loïc Miller",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://loicmiller.com/media/icon_hu1e87ff2de7ec7802ef4be14ed2f43e06_16349_192x192_fill_lanczos_center_2.png"
-    }
-  },
-  "description": "Les fuites de données au repos sont malheureusement courantes et en augmentation, entrainant des pertes de profits pour les entreprises ou le non-respect de confidentialité de données personnelles sensibles. La récente montée en puissance des micro-services, en tant que paradigme de déploiement extensible, impose également la sécurisation du trafic. Un processus métier peut être modélisé sous la forme d'un workflow : le propriétaire des données interagit avec des sous-traitants pour réaliser une séquence de tâches.\nDans cet article, nous montrons comment ces workflows peuvent être appliqués tout en limitant l'exposition des données. En suivant les principes du zero-trust, nous proposons une infrastructure utilisant l'isolation fournie par les micro-services pour mettre en oeuvre un workflow, dans une preuve de concept disponible en ligne. Nous vérifions ensuite que les politiques de sécurité sont correctement appliquées, et estimons le coût supplémentaire induit par les dispositifs de sécurité."
+  "description": "Business processes can be modeled as workflows, where the owner of the data at risk interacts with contractors to realize a sequence of tasks on the data to be secured.\nIn practice, access control is an essential building block to deploy these secured workflows. This component is generally managed by administrators using high-level policies meant to represent the requirements and restrictions put on the workflow. Handling access control with a high-level scheme comes with the benefit of separating the problem of specification, i.e. defining the desired behavior of the system, from the problem of implementation, i.e. enforcing this desired behavior. However, translating such high-level policies into a deployed implementation can be error-prone.\nEven though semi-automatic and automatic tools have been proposed to assist this translation, policy verification remains highly challenging in practice. In this paper, our aim is to define and propose constructs assisting the checking and correction of potential errors introduced on the ground due to a faulty translation or corrupted deployments. In particular, we investigate structures with formal foundations able to naturally model policies. Metagraphs, a generalized graph theoretic structure, fulfill those requirements: their usage enables to compare high-level policies to their implementation (in practice we consider Rego as a valuable representative of most common policy languages). We propose a suite of tools transforming and checking policies as metagraphs, and use them in a global framework to show how policy verification can be achieved with such constructs. Finally, we evaluate the performance of our verification method."
 }
 </script>
 
@@ -355,17 +363,15 @@ Dans cet article, nous montrons comment ces workflows peuvent être appliqués t
 
   
 
-  
 
 
 
 
-
-  <title>Protection contre les fuites de données: un environnement micro-services sécurisé | Loïc Miller</title>
+  <title>Policy Verification Using Metagraphs | Loïc Miller</title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="d1e63e384ae49132015e3998b0bb04da" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="6ade15a39a2c1e985c27e7b1e1308eba" >
 
   
   
@@ -737,16 +743,7 @@ Dans cet article, nous montrons comment ces workflows peuvent être appliqués t
   </div>
 
   <div class="page-body">
-    
-
-
-
-
-
-
-
-
-<div class="pub">
+    <div class="pub">
 
   
 
@@ -767,7 +764,7 @@ Dans cet article, nous montrons comment ces workflows peuvent être appliqués t
   
   
 <div class="article-container pt-3">
-  <h1>Protection contre les fuites de données: un environnement micro-services sécurisé</h1>
+  <h1>Policy Verification Using Metagraphs</h1>
 
   
 
@@ -784,7 +781,7 @@ Dans cet article, nous montrons comment ces workflows peuvent être appliqués t
   <div>
     
 
-  <span class="author-highlighted">
+  <span >
       Loïc Miller</span>, <span >
       Pascal Mérindol</span>, <span >
       Antoine Gallais</span>, <span >
@@ -793,14 +790,6 @@ Dans cet article, nous montrons comment ces workflows peuvent être appliqués t
   
   
 
-  
-  <span class="article-date">
-    
-    
-      
-    
-    August 2021
-  </span>
   
 
   
@@ -839,16 +828,7 @@ Dans cet article, nous montrons comment ces workflows peuvent être appliqués t
 
 
 
-<a class="btn btn-outline-primary btn-page-header" href="/publication/protection-contre-les-fuites-de-donnees-un-environnement-microservices-securise/protection-contre-les-fuites-de-donnees-un-environnement-microservices-securise.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
 
-
-
-<a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
-        data-filename="/publication/protection-contre-les-fuites-de-donnees-un-environnement-microservices-securise/cite.bib">
-  Cite
-</a>
 
 
 
@@ -862,7 +842,7 @@ Dans cet article, nous montrons comment ces workflows peuvent être appliqués t
   
     
   
-<a class="btn btn-outline-primary btn-page-header" href="/publication/protection-contre-les-fuites-de-donnees-un-environnement-microservices-securise/protection-contre-les-fuites-de-donnees-un-environnement-microservices-securise-slides.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="/talk/policy-verification-using-metagraphs/policy-verification-using-metagraphs-slides.pdf" target="_blank" rel="noopener">
   Slides
 </a>
 
@@ -883,21 +863,35 @@ Dans cet article, nous montrons comment ces workflows peuvent être appliqués t
   <div class="article-container">
 
     
-    <h3>Abstract</h3>
-    <p class="pub-abstract">Les fuites de données au repos sont malheureusement courantes et en augmentation, entrainant des pertes de profits pour les entreprises ou le non-respect de confidentialité de données personnelles sensibles. La récente montée en puissance des micro-services, en tant que paradigme de déploiement extensible, impose également la sécurisation du trafic. Un processus métier peut être modélisé sous la forme d&rsquo;un workflow : le propriétaire des données interagit avec des sous-traitants pour réaliser une séquence de tâches.
-Dans cet article, nous montrons comment ces workflows peuvent être appliqués tout en limitant l&rsquo;exposition des données. En suivant les principes du zero-trust, nous proposons une infrastructure utilisant l&rsquo;isolation fournie par les micro-services pour mettre en oeuvre un workflow, dans une preuve de concept disponible en ligne. Nous vérifions ensuite que les politiques de sécurité sont correctement appliquées, et estimons le coût supplémentaire induit par les dispositifs de sécurité.</p>
+      <h3>Abstract</h3>
+      <p class="pub-abstract">Business processes can be modeled as workflows, where the owner of the data at risk interacts with contractors to realize a sequence of tasks on the data to be secured.
+In practice, access control is an essential building block to deploy these secured workflows. This component is generally managed by administrators using high-level policies meant to represent the requirements and restrictions put on the workflow. Handling access control with a high-level scheme comes with the benefit of separating the problem of specification, i.e. defining the desired behavior of the system, from the problem of implementation, i.e. enforcing this desired behavior. However, translating such high-level policies into a deployed implementation can be error-prone.
+Even though semi-automatic and automatic tools have been proposed to assist this translation, policy verification remains highly challenging in practice. In this paper, our aim is to define and propose constructs assisting the checking and correction of potential errors introduced on the ground due to a faulty translation or corrupted deployments. In particular, we investigate structures with formal foundations able to naturally model policies. Metagraphs, a generalized graph theoretic structure, fulfill those requirements: their usage enables to compare high-level policies to their implementation (in practice we consider Rego as a valuable representative of most common policy languages). We propose a suite of tools transforming and checking policies as metagraphs, and use them in a global framework to show how policy verification can be achieved with such constructs. Finally, we evaluate the performance of our verification method.</p>
     
 
-    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Date</div>
+          <div class="col-12 col-md-9">
+            Aug 31, 2021 17:15 &mdash; 17:35
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+
     
     <div class="row">
       <div class="col-md-1"></div>
       <div class="col-md-10">
         <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-3 pub-row-heading">Event</div>
           <div class="col-12 col-md-9">
-            <a href="/publication/#1">
-              Conference paper
+            <a href="https://sites.google.com/uniurb.it/fosad/home/fosad20" target="_blank" rel="noopener">
+            XX International School on Foundations of Security Analysis and Design
             </a>
           </div>
         </div>
@@ -912,8 +906,12 @@ Dans cet article, nous montrons comment ces workflows peuvent être appliqués t
       <div class="col-md-1"></div>
       <div class="col-md-10">
         <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9"><a href="https://apps.univ-lr.fr/cgi-bin/WebObjects/Colloque.woa/wa/menu?code=2721&amp;idMenu=10988&amp;lang=fr">6ème Rencontres Francophones sur la Conception de Protocoles, l’Evaluation de Performance et l’EXpérimentation des Réseaux de Communication</a> (CoRes 2021), La Rochelle</div>
+          <div class="col-12 col-md-3 pub-row-heading">Location</div>
+          <div class="col-12 col-md-9">Bertinoro</div>
+          
+            <div class="col-md-3"></div>
+            <div class="col-12 col-md-9">Via Frangipane 6<br>47032 Bertinoro</div>
+          
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -923,7 +921,9 @@ Dans cet article, nous montrons comment ces workflows peuvent être appliqués t
 
     <div class="space-below"></div>
 
-    <div class="article-style"></div>
+    <div class="article-style">
+      
+    </div>
 
     
 
@@ -934,13 +934,17 @@ Dans cet article, nous montrons comment ces workflows peuvent être appliqués t
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/tag/fuites-de-donnees/">Fuites de données</a>
+  <a class="badge badge-light" href="/tag/policy-verification/">Policy verification</a>
   
-  <a class="badge badge-light" href="/tag/workflow/">Workflow</a>
+  <a class="badge badge-light" href="/tag/metagraphs/">Metagraphs</a>
   
-  <a class="badge badge-light" href="/tag/microservices/">Microservices</a>
+  <a class="badge badge-light" href="/tag/policy-modeling/">Policy modeling</a>
   
-  <a class="badge badge-light" href="/tag/securite/">Sécurité</a>
+  <a class="badge badge-light" href="/tag/rego/">Rego</a>
+  
+  <a class="badge badge-light" href="/tag/access-control/">Access control</a>
+  
+  <a class="badge badge-light" href="/tag/authorization/">Authorization</a>
   
 </div>
 
@@ -957,7 +961,7 @@ Dans cet article, nous montrons comment ces workflows peuvent être appliqués t
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://loicmiller.com/publication/protection-contre-les-fuites-de-donnees-un-environnement-microservices-securise/&amp;text=Protection%20contre%20les%20fuites%20de%20donn%c3%a9es:%20un%20environnement%20micro-services%20s%c3%a9curis%c3%a9" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://loicmiller.com/talk/policy-verification-using-metagraphs/&amp;text=Policy%20Verification%20Using%20Metagraphs" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -970,7 +974,7 @@ Dans cet article, nous montrons comment ces workflows peuvent être appliqués t
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://loicmiller.com/publication/protection-contre-les-fuites-de-donnees-un-environnement-microservices-securise/&amp;t=Protection%20contre%20les%20fuites%20de%20donn%c3%a9es:%20un%20environnement%20micro-services%20s%c3%a9curis%c3%a9" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://loicmiller.com/talk/policy-verification-using-metagraphs/&amp;t=Policy%20Verification%20Using%20Metagraphs" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -983,7 +987,7 @@ Dans cet article, nous montrons comment ces workflows peuvent être appliqués t
       
       
       <li>
-        <a href="mailto:?subject=Protection%20contre%20les%20fuites%20de%20donn%c3%a9es:%20un%20environnement%20micro-services%20s%c3%a9curis%c3%a9&amp;body=https://loicmiller.com/publication/protection-contre-les-fuites-de-donnees-un-environnement-microservices-securise/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Policy%20Verification%20Using%20Metagraphs&amp;body=https://loicmiller.com/talk/policy-verification-using-metagraphs/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -996,7 +1000,7 @@ Dans cet article, nous montrons comment ces workflows peuvent être appliqués t
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://loicmiller.com/publication/protection-contre-les-fuites-de-donnees-un-environnement-microservices-securise/&amp;title=Protection%20contre%20les%20fuites%20de%20donn%c3%a9es:%20un%20environnement%20micro-services%20s%c3%a9curis%c3%a9" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://loicmiller.com/talk/policy-verification-using-metagraphs/&amp;title=Policy%20Verification%20Using%20Metagraphs" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1009,7 +1013,7 @@ Dans cet article, nous montrons comment ces workflows peuvent être appliqués t
       
       
       <li>
-        <a href="whatsapp://send?text=Protection%20contre%20les%20fuites%20de%20donn%c3%a9es:%20un%20environnement%20micro-services%20s%c3%a9curis%c3%a9%20https://loicmiller.com/publication/protection-contre-les-fuites-de-donnees-un-environnement-microservices-securise/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=Policy%20Verification%20Using%20Metagraphs%20https://loicmiller.com/talk/policy-verification-using-metagraphs/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1022,7 +1026,7 @@ Dans cet article, nous montrons comment ces workflows peuvent être appliqués t
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://loicmiller.com/publication/protection-contre-les-fuites-de-donnees-un-environnement-microservices-securise/&amp;title=Protection%20contre%20les%20fuites%20de%20donn%c3%a9es:%20un%20environnement%20micro-services%20s%c3%a9curis%c3%a9" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://loicmiller.com/talk/policy-verification-using-metagraphs/&amp;title=Policy%20Verification%20Using%20Metagraphs" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1045,77 +1049,6 @@ Dans cet article, nous montrons comment ces workflows peuvent être appliqués t
     
 
 
-
-  
-  
-  
-    
-  
-  
-  
-  <div class="media author-card content-widget-hr">
-    
-      
-      <a href="https://loicmiller.com/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hua687143c8c5647c2ef707f8cabb89597_11248_270x270_fill_q75_lanczos_center.jpg" alt="Loïc Miller"></a>
-    
-
-    <div class="media-body">
-      <h5 class="card-title"><a href="https://loicmiller.com/">Loïc Miller</a></h5>
-      <h6 class="card-subtitle">PhD student</h6>
-      <p class="card-text">My research interests include workflow security, BGP security, metagraphs and microservices.</p>
-      <ul class="network-icon" aria-hidden="true">
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-    <li>
-      <a href="mailto:loicmiller@unistra.fr" >
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://scholar.google.co.uk/citations?user=YOgS5sMAAAAJ" target="_blank" rel="noopener">
-        <i class="ai ai-google-scholar"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://github.com/loicmiller" target="_blank" rel="noopener">
-        <i class="fab fa-github"></i>
-      </a>
-    </li>
-  
-</ul>
-
-    </div>
-  </div>
 
 
   
@@ -1157,15 +1090,15 @@ Dans cet article, nous montrons comment ces workflows peuvent être appliqués t
     <h3>Related</h3>
     <ul>
       
-      <li><a href="/talk/protection-contre-les-fuites-de-donnees-un-environnement-micro-services-securise/">Protection contre les fuites de données: un environnement micro-services sécurisé</a></li>
+      <li><a href="/publication/verification-of-cloud-security-policies/">Verification of Cloud Security Policies</a></li>
+      
+      <li><a href="/talk/verification-of-cloud-security-policies/">Verification of Cloud Security Policies</a></li>
       
       <li><a href="/publication/securing-workflows-using-microservices-and-metagraphs/">Securing Workflows Using Microservices and Metagraphs</a></li>
       
-      <li><a href="/talk/securing-workflows-using-microservices/">Securing Workflows Using Microservices</a></li>
+      <li><a href="/talk/de-lutilisation-des-metagraphes-pour-la-verification-de-politiques-de-securite/">De l&#39;Utilisation des Métagraphes pour la Vérification de Politiques de Sécurité</a></li>
       
-      <li><a href="/talk/securing-workflows-using-the-microservices-architecture/">Securing Workflows Using the Microservices Architecture</a></li>
-      
-      <li><a href="/talk/towards-secure-and-leak-free-workflows-using-microservice-isolation/">Towards Secure and Leak-Free Workflows Using Microservice Isolation</a></li>
+      <li><a href="/publication/de-l-utilisation-des-metagraphs-pour-la-verification-de-politiques-de-securite/">De l&#39;Utilisation des Métagraphes pour la Vérification de Politiques de Sécurité</a></li>
       
     </ul>
   </div>
