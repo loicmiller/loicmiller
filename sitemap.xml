@@ -2,6 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://loicmiller.com/publication-type/3/</loc>
+    <lastmod>2022-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/tag/complexity/</loc>
+    <lastmod>2022-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/tag/directed-hypergraphs/</loc>
+    <lastmod>2022-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/publication/finding-s-d-hypernetworks-in-f-hypergraphs-is-np-hard/</loc>
+    <lastmod>2022-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/tag/hypernetworks/</loc>
+    <lastmod>2022-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/</loc>
+    <lastmod>2022-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/tag/np-completeness/</loc>
+    <lastmod>2022-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/publication_types/</loc>
+    <lastmod>2022-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/publication/</loc>
+    <lastmod>2022-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/tags/</loc>
+    <lastmod>2022-01-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://loicmiller.com/publication-type/2/</loc>
     <lastmod>2021-12-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -14,9 +44,6 @@
     <loc>https://loicmiller.com/tag/data-leak/</loc>
     <lastmod>2021-12-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://loicmiller.com/</loc>
-    <lastmod>2021-12-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://loicmiller.com/tag/metagraphs/</loc>
     <lastmod>2021-12-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -26,19 +53,10 @@
     <loc>https://loicmiller.com/tag/policy-verification/</loc>
     <lastmod>2021-12-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://loicmiller.com/publication_types/</loc>
-    <lastmod>2021-12-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://loicmiller.com/publication/</loc>
-    <lastmod>2021-12-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://loicmiller.com/tag/rego/</loc>
     <lastmod>2021-12-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://loicmiller.com/publication/securing-workflows-using-microservices-and-metagraphs/</loc>
-    <lastmod>2021-12-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://loicmiller.com/tags/</loc>
     <lastmod>2021-12-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://loicmiller.com/tag/workflow/</loc>
@@ -103,24 +121,6 @@
   </url><url>
     <loc>https://loicmiller.com/publication/verification-of-cloud-security-policies/</loc>
     <lastmod>2021-06-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://loicmiller.com/publication-type/3/</loc>
-    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://loicmiller.com/tag/complexity/</loc>
-    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://loicmiller.com/tag/directed-hypergraphs/</loc>
-    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://loicmiller.com/publication/finding-s-d-hypernetworks-in-f-hypergraphs-is-np-hard/</loc>
-    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://loicmiller.com/tag/hypernetworks/</loc>
-    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://loicmiller.com/tag/np-completeness/</loc>
-    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://loicmiller.com/talk/securing-workflows-using-microservices/</loc>
     <lastmod>2019-10-08T09:00:00+00:00</lastmod>
