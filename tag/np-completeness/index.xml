@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NP-completeness | Loïc Miller</title>
+    <link>https://loicmiller.com/tag/np-completeness/</link>
+      <atom:link href="https://loicmiller.com/tag/np-completeness/index.xml" rel="self" type="application/rss+xml" />
+    <description>NP-completeness</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Loïc Miller</copyright><lastBuildDate>Thu, 14 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://loicmiller.com/media/icon_hu1e87ff2de7ec7802ef4be14ed2f43e06_16349_512x512_fill_lanczos_center_2.png</url>
+      <title>NP-completeness</title>
+      <link>https://loicmiller.com/tag/np-completeness/</link>
+    </image>
+    
+    <item>
+      <title>Finding (s,d)-Hypernetworks in F-Hypergraphs is NP-Hard</title>
+      <link>https://loicmiller.com/publication/finding-s-d-hypernetworks-in-f-hypergraphs-is-np-hard/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://loicmiller.com/publication/finding-s-d-hypernetworks-in-f-hypergraphs-is-np-hard/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+--&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

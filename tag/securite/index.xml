@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sécurité | Loïc Miller</title>
+    <link>https://loicmiller.com/tag/securite/</link>
+      <atom:link href="https://loicmiller.com/tag/securite/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sécurité</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Loïc Miller</copyright><lastBuildDate>Mon, 20 Sep 2021 15:10:00 +0000</lastBuildDate>
+    <image>
+      <url>https://loicmiller.com/media/icon_hu1e87ff2de7ec7802ef4be14ed2f43e06_16349_512x512_fill_lanczos_center_2.png</url>
+      <title>Sécurité</title>
+      <link>https://loicmiller.com/tag/securite/</link>
+    </image>
+    
+    <item>
+      <title>Protection contre les fuites de données: un environnement micro-services sécurisé</title>
+      <link>https://loicmiller.com/talk/protection-contre-les-fuites-de-donnees-un-environnement-micro-services-securise/</link>
+      <pubDate>Mon, 20 Sep 2021 15:10:00 +0000</pubDate>
+      <guid>https://loicmiller.com/talk/protection-contre-les-fuites-de-donnees-un-environnement-micro-services-securise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protection contre les fuites de données: un environnement micro-services sécurisé</title>
+      <link>https://loicmiller.com/publication/protection-contre-les-fuites-de-donnees-un-environnement-microservices-securise/</link>
+      <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://loicmiller.com/publication/protection-contre-les-fuites-de-donnees-un-environnement-microservices-securise/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

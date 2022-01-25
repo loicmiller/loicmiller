@@ -2,68 +2,125 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://loicmiller.com/tag/authorization/</loc>
-    <lastmod>2021-06-08T17:15:00+00:00</lastmod>
+    <loc>https://loicmiller.com/publication-type/2/</loc>
+    <lastmod>2021-12-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://loicmiller.com/tag/data-breach/</loc>
-    <lastmod>2021-06-08T17:15:00+00:00</lastmod>
+    <loc>https://loicmiller.com/tag/access-control/</loc>
+    <lastmod>2021-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/tag/authorization/</loc>
+    <lastmod>2021-12-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://loicmiller.com/tag/data-leak/</loc>
-    <lastmod>2021-06-08T17:15:00+00:00</lastmod>
+    <lastmod>2021-12-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://loicmiller.com/</loc>
-    <lastmod>2021-06-08T17:15:00+00:00</lastmod>
+    <lastmod>2021-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/tag/metagraphs/</loc>
+    <lastmod>2021-12-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://loicmiller.com/tag/microservices/</loc>
-    <lastmod>2021-06-08T17:15:00+00:00</lastmod>
+    <lastmod>2021-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/tag/policy-verification/</loc>
+    <lastmod>2021-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/publication_types/</loc>
+    <lastmod>2021-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/publication/</loc>
+    <lastmod>2021-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/tag/rego/</loc>
+    <lastmod>2021-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/publication/securing-workflows-using-microservices-and-metagraphs/</loc>
+    <lastmod>2021-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/tags/</loc>
+    <lastmod>2021-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/tag/workflow/</loc>
+    <lastmod>2021-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/tag/yawl/</loc>
+    <lastmod>2021-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/tag/controle-dacces/</loc>
+    <lastmod>2021-09-22T16:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/talk/de-lutilisation-des-metagraphes-pour-la-verification-de-politiques-de-securite/</loc>
+    <lastmod>2021-09-22T16:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/tag/modelisation-de-politiques/</loc>
+    <lastmod>2021-09-22T16:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/tag/metagraphes/</loc>
+    <lastmod>2021-09-22T16:30:00+00:00</lastmod>
   </url><url>
     <loc>https://loicmiller.com/event/</loc>
+    <lastmod>2021-09-22T16:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/tag/verification-de-politiques/</loc>
+    <lastmod>2021-09-22T16:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/tag/fuites-de-donnees/</loc>
+    <lastmod>2021-09-20T15:10:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/talk/protection-contre-les-fuites-de-donnees-un-environnement-micro-services-securise/</loc>
+    <lastmod>2021-09-20T15:10:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/tag/securite/</loc>
+    <lastmod>2021-09-20T15:10:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/publication-type/1/</loc>
+    <lastmod>2021-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/publication/de-l-utilisation-des-metagraphs-pour-la-verification-de-politiques-de-securite/</loc>
+    <lastmod>2021-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/publication/protection-contre-les-fuites-de-donnees-un-environnement-microservices-securise/</loc>
+    <lastmod>2021-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/tag/data-breach/</loc>
     <lastmod>2021-06-08T17:15:00+00:00</lastmod>
   </url><url>
     <loc>https://loicmiller.com/tag/security/</loc>
     <lastmod>2021-06-08T17:15:00+00:00</lastmod>
   </url><url>
-    <loc>https://loicmiller.com/tags/</loc>
-    <lastmod>2021-06-08T17:15:00+00:00</lastmod>
-  </url><url>
     <loc>https://loicmiller.com/talk/towards-secure-and-leak-free-workflows-using-microservice-isolation/</loc>
     <lastmod>2021-06-08T17:15:00+00:00</lastmod>
-  </url><url>
-    <loc>https://loicmiller.com/tag/workflow/</loc>
-    <lastmod>2021-06-08T17:15:00+00:00</lastmod>
-  </url><url>
-    <loc>https://loicmiller.com/tag/access-control/</loc>
-    <lastmod>2021-06-08T17:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://loicmiller.com/tag/metagraphs/</loc>
-    <lastmod>2021-06-08T17:00:00+00:00</lastmod>
   </url><url>
     <loc>https://loicmiller.com/tag/policy-modeling/</loc>
     <lastmod>2021-06-08T17:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://loicmiller.com/tag/policy-verification/</loc>
-    <lastmod>2021-06-08T17:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://loicmiller.com/tag/rego/</loc>
-    <lastmod>2021-06-08T17:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://loicmiller.com/talk/verification-of-cloud-security-policies/</loc>
     <lastmod>2021-06-08T17:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://loicmiller.com/publication-type/1/</loc>
-    <lastmod>2021-06-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://loicmiller.com/publication_types/</loc>
-    <lastmod>2021-06-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://loicmiller.com/publication/</loc>
-    <lastmod>2021-06-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://loicmiller.com/publication/towards-secure-and-leak-free-workflows-using-microservices/</loc>
     <lastmod>2021-06-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://loicmiller.com/publication/verification-of-cloud-security-policies/</loc>
     <lastmod>2021-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/publication-type/3/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/tag/complexity/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/tag/directed-hypergraphs/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/publication/finding-s-d-hypernetworks-in-f-hypergraphs-is-np-hard/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/tag/hypernetworks/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loicmiller.com/tag/np-completeness/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://loicmiller.com/talk/securing-workflows-using-microservices/</loc>
     <lastmod>2019-10-08T09:00:00+00:00</lastmod>
