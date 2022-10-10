@@ -4,164 +4,277 @@
   <url>
     <loc>https://loicmiller.com/publication-type/3/</loc>
     <lastmod>2022-01-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://loicmiller.com/tag/complexity/</loc>
     <lastmod>2022-01-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://loicmiller.com/tag/directed-hypergraphs/</loc>
     <lastmod>2022-01-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://loicmiller.com/publication/finding-s-d-hypernetworks-in-f-hypergraphs-is-np-hard/</loc>
     <lastmod>2022-01-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://loicmiller.com/tag/hypernetworks/</loc>
     <lastmod>2022-01-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://loicmiller.com/</loc>
     <lastmod>2022-01-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://loicmiller.com/tag/np-completeness/</loc>
     <lastmod>2022-01-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://loicmiller.com/publication_types/</loc>
     <lastmod>2022-01-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://loicmiller.com/publication/</loc>
     <lastmod>2022-01-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://loicmiller.com/tags/</loc>
     <lastmod>2022-01-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://loicmiller.com/publication-type/2/</loc>
     <lastmod>2021-12-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://loicmiller.com/tag/access-control/</loc>
     <lastmod>2021-12-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://loicmiller.com/tag/authorization/</loc>
     <lastmod>2021-12-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://loicmiller.com/tag/data-leak/</loc>
     <lastmod>2021-12-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://loicmiller.com/tag/metagraphs/</loc>
     <lastmod>2021-12-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://loicmiller.com/tag/microservices/</loc>
     <lastmod>2021-12-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://loicmiller.com/tag/policy-verification/</loc>
     <lastmod>2021-12-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://loicmiller.com/tag/rego/</loc>
     <lastmod>2021-12-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://loicmiller.com/publication/securing-workflows-using-microservices-and-metagraphs/</loc>
     <lastmod>2021-12-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://loicmiller.com/tag/workflow/</loc>
     <lastmod>2021-12-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://loicmiller.com/tag/yawl/</loc>
     <lastmod>2021-12-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://loicmiller.com/tag/controle-dacces/</loc>
     <lastmod>2021-09-22T16:30:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://loicmiller.com/talk/de-lutilisation-des-metagraphes-pour-la-verification-de-politiques-de-securite/</loc>
     <lastmod>2021-09-22T16:30:00+00:00</lastmod>
-  </url><url>
-    <loc>https://loicmiller.com/tag/modelisation-de-politiques/</loc>
-    <lastmod>2021-09-22T16:30:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://loicmiller.com/tag/metagraphes/</loc>
     <lastmod>2021-09-22T16:30:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://loicmiller.com/tag/modelisation-de-politiques/</loc>
+    <lastmod>2021-09-22T16:30:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://loicmiller.com/event/</loc>
     <lastmod>2021-09-22T16:30:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://loicmiller.com/tag/verification-de-politiques/</loc>
     <lastmod>2021-09-22T16:30:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://loicmiller.com/tag/fuites-de-donnees/</loc>
     <lastmod>2021-09-20T15:10:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://loicmiller.com/talk/protection-contre-les-fuites-de-donnees-un-environnement-micro-services-securise/</loc>
     <lastmod>2021-09-20T15:10:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://loicmiller.com/tag/securite/</loc>
     <lastmod>2021-09-20T15:10:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://loicmiller.com/tag/policy-modeling/</loc>
     <lastmod>2021-08-31T17:15:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://loicmiller.com/talk/policy-verification-using-metagraphs/</loc>
     <lastmod>2021-08-31T17:15:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://loicmiller.com/publication-type/1/</loc>
     <lastmod>2021-08-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://loicmiller.com/publication/de-l-utilisation-des-metagraphs-pour-la-verification-de-politiques-de-securite/</loc>
     <lastmod>2021-08-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://loicmiller.com/publication/protection-contre-les-fuites-de-donnees-un-environnement-microservices-securise/</loc>
     <lastmod>2021-08-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://loicmiller.com/tag/data-breach/</loc>
     <lastmod>2021-06-08T17:15:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://loicmiller.com/tag/security/</loc>
     <lastmod>2021-06-08T17:15:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://loicmiller.com/talk/towards-secure-and-leak-free-workflows-using-microservice-isolation/</loc>
     <lastmod>2021-06-08T17:15:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://loicmiller.com/talk/verification-of-cloud-security-policies/</loc>
     <lastmod>2021-06-08T17:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://loicmiller.com/publication/towards-secure-and-leak-free-workflows-using-microservices/</loc>
     <lastmod>2021-06-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://loicmiller.com/publication/verification-of-cloud-security-policies/</loc>
     <lastmod>2021-06-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://loicmiller.com/tag/academic/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://loicmiller.com/categories/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://loicmiller.com/category/demo/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://loicmiller.com/post/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://loicmiller.com/post/getting-started/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://loicmiller.com/tag/%E5%BC%80%E6%BA%90/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://loicmiller.com/category/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://loicmiller.com/talk/securing-workflows-using-microservices/</loc>
     <lastmod>2019-10-08T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://loicmiller.com/talk/a-taxonomy-of-attacks-using-bgp-blackholing/</loc>
     <lastmod>2019-09-23T10:55:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://loicmiller.com/tag/bgp/</loc>
     <lastmod>2019-09-23T10:55:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://loicmiller.com/tag/blackholing/</loc>
     <lastmod>2019-09-23T10:55:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://loicmiller.com/tag/communities/</loc>
     <lastmod>2019-09-23T10:55:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://loicmiller.com/tag/ddos/</loc>
     <lastmod>2019-09-23T10:55:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://loicmiller.com/tag/hijacks/</loc>
     <lastmod>2019-09-23T10:55:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://loicmiller.com/tag/leaks/</loc>
     <lastmod>2019-09-23T10:55:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://loicmiller.com/publication/a-taxonomy-of-attacks-using-bgp-blackholing/</loc>
     <lastmod>2019-09-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://loicmiller.com/post/writing-technical-content/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://loicmiller.com/talk/securing-workflows-using-the-microservices-architecture/</loc>
     <lastmod>2019-06-20T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://loicmiller.com/post/jupyter/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://loicmiller.com/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://loicmiller.com/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://loicmiller.com/talk/bgp-blackholing-attack-defense/</loc>
     <lastmod>2019-01-18T10:15:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://loicmiller.com/tag/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://loicmiller.com/tag/demo/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://loicmiller.com/project/example/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://loicmiller.com/project/external-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://loicmiller.com/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://loicmiller.com/admin/</loc>
-  </url><url>
-    <loc>https://loicmiller.com/categories/</loc>
-  </url><url>
-    <loc>https://loicmiller.com/post/</loc>
+    <changefreq>weekly</changefreq>
   </url>
 </urlset>
