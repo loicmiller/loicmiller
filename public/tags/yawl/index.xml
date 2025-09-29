@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>YAWL | Loïc Miller</title>
+    <link>http://localhost:1313/tags/yawl/</link>
+      <atom:link href="http://localhost:1313/tags/yawl/index.xml" rel="self" type="application/rss+xml" />
+    <description>YAWL</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 11 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_aa289d1d5f06d31.png</url>
+      <title>YAWL</title>
+      <link>http://localhost:1313/tags/yawl/</link>
+    </image>
+    
+    <item>
+      <title>Securing Workflows Using Microservices and Metagraphs</title>
+      <link>http://localhost:1313/publication/securing-workflows-using-microservices-and-metagraphs/</link>
+      <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/securing-workflows-using-microservices-and-metagraphs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

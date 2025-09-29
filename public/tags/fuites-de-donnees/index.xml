@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fuites De Données | Loïc Miller</title>
+    <link>http://localhost:1313/tags/fuites-de-donnees/</link>
+      <atom:link href="http://localhost:1313/tags/fuites-de-donnees/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fuites De Données</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Sep 2021 15:10:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_aa289d1d5f06d31.png</url>
+      <title>Fuites De Données</title>
+      <link>http://localhost:1313/tags/fuites-de-donnees/</link>
+    </image>
+    
+    <item>
+      <title>Protection contre les fuites de données: un environnement micro-services sécurisé</title>
+      <link>http://localhost:1313/event/protection-contre-les-fuites-de-donnees-un-environnement-microservices-securise/</link>
+      <pubDate>Mon, 20 Sep 2021 15:10:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/protection-contre-les-fuites-de-donnees-un-environnement-microservices-securise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protection contre les fuites de données: un environnement micro-services sécurisé</title>
+      <link>http://localhost:1313/publication/protection-contre-les-fuites-de-donnees-un-environnement-microservices-securise/</link>
+      <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/protection-contre-les-fuites-de-donnees-un-environnement-microservices-securise/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

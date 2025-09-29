@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Papers | Loïc Miller</title>
+    <link>http://localhost:1313/publication/</link>
+      <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Papers</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_aa289d1d5f06d31.png</url>
+      <title>Papers</title>
+      <link>http://localhost:1313/publication/</link>
+    </image>
+    
+    <item>
+      <title>Mining in Logarithmic Space with Variable Difficulty</title>
+      <link>http://localhost:1313/publication/mining-in-logarithmic-space-with-variable-difficulty/</link>
+      <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mining-in-logarithmic-space-with-variable-difficulty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preuves non-interactives : la nouvelle ère des chaînes compressées</title>
+      <link>http://localhost:1313/publication/preuves-non-interactives-nouvelle-ere-chaines-compressees/</link>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/preuves-non-interactives-nouvelle-ere-chaines-compressees/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collaborative Cybersecurity Using Blockchain: A Survey</title>
+      <link>http://localhost:1313/publication/collaborative-cybersecurity-using-blockchain-a-survey/</link>
+      <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/collaborative-cybersecurity-using-blockchain-a-survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding (s,d)-Hypernetworks in F-Hypergraphs is NP-Hard</title>
+      <link>http://localhost:1313/publication/finding-s-d-hypernetworks-in-f-hypergraphs-is-np-hard/</link>
+      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/finding-s-d-hypernetworks-in-f-hypergraphs-is-np-hard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Securing Workflows Using Microservices and Metagraphs</title>
+      <link>http://localhost:1313/publication/securing-workflows-using-microservices-and-metagraphs/</link>
+      <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/securing-workflows-using-microservices-and-metagraphs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>De l&#39;Utilisation des Métagraphes pour la Vérification de Politiques de Sécurité</title>
+      <link>http://localhost:1313/publication/de-l-utilisation-des-metagraphs-pour-la-verification-de-politiques-de-securite/</link>
+      <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/de-l-utilisation-des-metagraphs-pour-la-verification-de-politiques-de-securite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protection contre les fuites de données: un environnement micro-services sécurisé</title>
+      <link>http://localhost:1313/publication/protection-contre-les-fuites-de-donnees-un-environnement-microservices-securise/</link>
+      <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/protection-contre-les-fuites-de-donnees-un-environnement-microservices-securise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Secure and Leak-Free Workflows Using Microservice Isolation</title>
+      <link>http://localhost:1313/publication/towards-secure-and-leak-free-workflows-using-microservices/</link>
+      <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/towards-secure-and-leak-free-workflows-using-microservices/</guid>
+      <description>&lt;p&gt;Best Paper Award &amp;ldquo;Short Track Student&amp;rdquo;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Verification of Cloud Security Policies</title>
+      <link>http://localhost:1313/publication/verification-of-cloud-security-policies/</link>
+      <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/verification-of-cloud-security-policies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Taxonomy of Attacks Using BGP Blackholing</title>
+      <link>http://localhost:1313/publication/a-taxonomy-of-attacks-using-bgp-blackholing/</link>
+      <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/a-taxonomy-of-attacks-using-bgp-blackholing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

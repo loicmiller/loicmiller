@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hijacks | Loïc Miller</title>
+    <link>http://localhost:1313/tags/hijacks/</link>
+      <atom:link href="http://localhost:1313/tags/hijacks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hijacks</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Sep 2019 10:55:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_aa289d1d5f06d31.png</url>
+      <title>Hijacks</title>
+      <link>http://localhost:1313/tags/hijacks/</link>
+    </image>
+    
+    <item>
+      <title>A Taxonomy of Attacks Using BGP Blackholing</title>
+      <link>http://localhost:1313/event/a-taxonomy-of-attacks-using-bgp-blackholing/</link>
+      <pubDate>Mon, 23 Sep 2019 10:55:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/a-taxonomy-of-attacks-using-bgp-blackholing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Taxonomy of Attacks Using BGP Blackholing</title>
+      <link>http://localhost:1313/publication/a-taxonomy-of-attacks-using-bgp-blackholing/</link>
+      <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/a-taxonomy-of-attacks-using-bgp-blackholing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BGP Blackholing Attack Defense</title>
+      <link>http://localhost:1313/event/bgp-blackholing-attack-defense/</link>
+      <pubDate>Fri, 18 Jan 2019 10:15:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/bgp-blackholing-attack-defense/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
