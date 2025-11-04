@@ -15,6 +15,9 @@ sections:
       title: 'Teaching'
       subtitle: ''
       text: |-
+        - **2025 – 2026**
+          - Network and hardware security, CentraleSupélec, 3rd year – 3h Lecture
+
         - **2024 – 2025**
           - Internet Network Administration, ISTIC, Master 2 – 3h Lecture
           - Blockchain and Consensus, IMT Atlantique, 2nd–3rd year – 3h Lecture
