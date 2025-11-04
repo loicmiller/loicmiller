@@ -16,7 +16,7 @@ sections:
       subtitle: ''
       text: |-
         - **2025 – 2026**
-          - Network and hardware security, CentraleSupélec, 3rd year – 3h Lecture
+          - Network and Hardware Security, CentraleSupélec, 3rd year – 3h Lecture
 
         - **2024 – 2025**
           - Internet Network Administration, ISTIC, Master 2 – 3h Lecture
