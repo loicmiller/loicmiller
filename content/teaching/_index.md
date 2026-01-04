@@ -18,6 +18,7 @@ sections:
         - **2025 – 2026**
           - Network and Hardware Security, CentraleSupélec, 3rd year – 3h Lecture
           - Networks and Security, CentraleSupélec, 1st year – 1.5h Lecture, 6h Tutorial, 3h Lab
+          - Tutoring, CentraleSupélec, 1st year and 3rd year
 
         - **2024 – 2025**
           - Internet Network Administration, ISTIC, Master 2 – 3h Lecture
