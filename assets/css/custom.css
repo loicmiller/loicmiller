@@ -1,0 +1,30 @@
+/**
+ * Custom CSS for teaching page
+ * Overrides Hugo Blox default max-width constraints to allow tables to use full page width
+ * See: layouts/partials/hooks/head-end/custom-styles.html (loads this file)
+ */
+
+/* Override max-w-prose constraints on markdown section */
+.blox-markdown .max-w-prose {
+  max-width: 100% !important;
+}
+
+.blox-markdown .prose {
+  max-width: 100% !important;
+}
+
+/* Ensure flex container takes full width */
+.blox-markdown .flex {
+  max-width: 100% !important;
+}
+
+/* Make sure tables are fully visible */
+.blox-markdown table {
+  width: 100%;
+  font-size: 0.9rem;
+}
+
+.blox-markdown table td,
+.blox-markdown table th {
+  padding: 0.6rem 0.8rem !important;
+}

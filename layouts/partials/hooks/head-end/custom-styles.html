@@ -1,0 +1,3 @@
+{{- /* Load custom CSS for overrides (teaching page width fix) */ -}}
+{{ $style := resources.Get "css/custom.css" | minify }}
+<link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}">
