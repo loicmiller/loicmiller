@@ -17,16 +17,16 @@ sections:
       text: |-
         ## 2025 – 2026
 
-        | Course                             | Institution              | Level | Lecture | Tutorial | Lab   |
-        | ---------------------------------- | ------------------------ | ----- | ------- | -------- | ----- |
-        | Blockchain                         | ISTIC                    | M2    | 6h      |          | 7.5h  |
-        | Concurrent and Distributed Systems | CentraleSupélec          | 3A    | 7.5h    |          | 4.5h  |
-        | Network and Hardware Security      | CentraleSupélec          | 3A    | 3h      |          |       |
-        | Operating System Security          | CentraleSupélec          | 3A    |         |          | 10.5h |
-        | Advanced Databases                 | CentraleSupélec          | 1A    | 4.5h    | 3h       | 12h   |
-        | Introduction to Computer Networks  | CentraleSupélec          | 1A    |         | 6h       | 16.5h |
-        | Introduction to Technical Project  | CentraleSupélec          | 1A    |         | 18h      |       |
-        | Networks and Security              | CentraleSupélec          | 1A    | 1.5h    | 6h       | 3h    |
+        | Course                                 | Institution              | Level | Lecture | Tutorial | Lab   |
+        | -------------------------------------- | ------------------------ | ----- | ------- | -------- | ----- |
+        | Blockchain Principles and Applications | ISTIC                    | M2    | 6h      |          | 7.5h  |
+        | Concurrent and Distributed Systems     | CentraleSupélec          | 3A    | 7.5h    |          | 4.5h  |
+        | Network and Hardware Security          | CentraleSupélec          | 3A    | 3h      |          |       |
+        | Operating System Security              | CentraleSupélec          | 3A    |         |          | 10.5h |
+        | Advanced Databases                     | CentraleSupélec          | 1A    | 4.5h    | 3h       | 12h   |
+        | Introduction to Computer Networks      | CentraleSupélec          | 1A    |         | 6h       | 16.5h |
+        | Introduction to Technical Project      | CentraleSupélec          | 1A    |         | 18h      |       |
+        | Networks and Security                  | CentraleSupélec          | 1A    | 1.5h    | 6h       | 3h    |
 
         **Supervision**
 
