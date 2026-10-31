@@ -43,6 +43,7 @@ interests:
 education:
 - degree: PhD in cybersecurity
   institution: University of Strasbourg
+  year: 2018 – 2022
   start: 2018-09-03
   end: 2022-04-22
   summary: '_Securing Workflows: On the Use of Microservices and Metagraphs to Prevent Data Exposures_ ([Slides](https://loicmiller.com/uploads/thesis-slides.pdf)).
@@ -54,6 +55,7 @@ education:
     url: https://loicmiller.com/uploads/thesis-manuscript.pdf
 - degree: MSc in computer networks
   institution: University of Strasbourg
+  year: 2016 – 2018
   start: 2016-09-01
   end: 2018-08-31
   summary: 'Final-year internship ([Slides](https://loicmiller.com/uploads/master-thesis-slides.pdf)). Supervised
@@ -71,6 +73,7 @@ education:
     url: https://loicmiller.com/uploads/master-thesis.pdf
 - degree: BSc in computer science
   institution: University of Strasbourg
+  year: 2013 – 2016
   start: 2013-09-02
   end: 2016-07-31
   summary: 'Development of a routing data analyzer. Supervised by Associate Prof. _Pascal Mérindol_.
