@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="robots" content="noindex">
+<meta name="referrer" content="no-referrer">
+<title>Redirecting</title>
+</head>
+<body>
+<p>Redirecting… If nothing happens, copy the address of this page into the application.</p>
+<script>
+(function () {
+  var q = new URLSearchParams(location.search), out = new URLSearchParams();
+  ["code", "state", "error", "error_description"].forEach(function (k) { if (q.has(k)) out.set(k, q.get(k)); });
+  if (out.toString()) location.replace("http://127.0.0.1:8772/callback?" + out.toString());
+})();
+</script>
+</body>
+</html>
