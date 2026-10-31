@@ -1,71 +1,33 @@
-# Loïc Miller - Academic CV
+# Loïc Miller — academic website
 
-This repository hosts my academic CV website built with [Hugo](https://gohugo.io/) and the [theme-academic-cv](https://github.com/HugoBlox/theme-academic-cv) template.
+Source of [loicmiller.com](https://loicmiller.com), built with [Hugo](https://gohugo.io/) and
+[HugoBlox Kit](https://github.com/HugoBlox/kit) (academic CV template), deployed to GitHub Pages by GitHub Actions on
+every push to `master`.
 
-The site is automatically deployed to GitHub Pages via GitHub Actions, and visitors are redirected to [https://loicmiller.com](https://loicmiller.com).
+## Where things are
 
+| What | File |
+|---|---|
+| Profile: bio, links, interests, education, experience, awards | `data/authors/admin.yaml` (`content/authors/admin/_index.md` holds the same profile in the older format) |
+| Home page sections | `content/_index.md` |
+| Papers | `content/publication/<slug>/` (`index.md`, `cite.bib`, PDF, `featured.jpg`) |
+| Talks | `content/event/<slug>/` |
+| Experience, Teaching | `content/experience.md`, `content/teaching/_index.md` |
+| CV (« Download CV ») | `static/uploads/resume.pdf` |
+| Site settings, menu | `config/_default/` |
+| Hugo version | `hugoblox.yaml` (`build.hugo_version`), read by the workflow too |
+| Deployment | `.github/workflows/hugo.yml` |
 
+## Local preview and updates
 
----
-## 🚀 Local Development
-
-1. **Clone the repository**
-
-```bash
-git clone https://github.com/loicmiller/loicmiller.git
-cd loicmiller
-```
-
-2. **Install dependencies**
+Needs Node 22+ and pnpm. Hugo is downloaded by `scripts/toolchain.py`, at the version `hugoblox.yaml` names, so the
+laptop builds exactly as GitHub does.
 
 ```bash
 pnpm install
+"$(python3 scripts/toolchain.py bin)" server          # preview on http://localhost:1313
+python3 scripts/toolchain.py update                   # latest theme modules + Tailwind, newest Hugo that builds
 ```
 
-3. **Fix Hugo shortcodes (if missing)**
-
-```bash
-hugo mod clean
-hugo mod get -u ./...
-```
-
-4. **Run the local server**
-
-```bash
-hugo server
-```
-
-Visit http://localhost:1313 to preview your site locally.
-
-
-
----
-## 🛠 Modify Content
-
-All content is in the content/ folder.
-
-Configuration is in config.toml.
-
-Theme settings are in the themes/theme-academic-cv folder.
-
-Edit markdown files, add publications, projects, or update your CV, then rebuild the site locally to preview changes.
-
-
-
----
-## 📦 Deployment
-
-This site uses GitHub Actions for continuous deployment:
-
-1. Push changes to the `main` branch.
-2. GitHub Actions automatically builds the site using Hugo and deploys the static files from the `public/` folder to the `gh-pages` branch.
-3. GitHub Pages automatically redirects visitors to https://loicmiller.com
-
-The workflow file is located at .github/workflows/gh-pages.yml.
-
-
-## ⚡ Notes
-
-- Ensure your Hugo version matches the one specified in `.github/workflows/gh-pages.yml`.
-- Do not push the `public/` folder manually; it is generated automatically during deployment.
-- For more details on the theme and available shortcodes, see theme-academic-cv documentation
+`public/`, `resources/` and `node_modules/` are generated: never commit them. The search index (Pagefind) is built
+after Hugo, by the workflow.
