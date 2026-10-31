@@ -17,8 +17,8 @@ publishDate: "2021-12-11T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*[Multidisciplinary Digital Publishing Institute](https://www.mdpi.com/) (MDPI)*"
-publication_short: "*MDPI*"
+publication: "*[Electronics](https://www.mdpi.com/journal/electronics)* 10(24): 3087, MDPI"
+publication_short: "*Electronics*"
 
 abstract: Companies such as Netflix increasingly use the cloud to deploy their business processes. Those processes often involve partnerships with other companies, and can be modeled as workflows where the owner of the data at risk interacts with contractors to realize a sequence of tasks on the data to be secured. In this paper, we first show how those workflows can be deployed and enforced while preventing data exposure. Second, this paper provides a global framework to enable the verification of workflow policies. Following the principles of zero-trust, we develop an infrastructure using the isolation provided by a microservice architecture to enforce owner policy. We implement a workflow with our infrastructure in a publicly available proof of concept. This work allows us to verify that the specified policy is correctly enforced by testing the deployment for policy violations, and find the overhead cost of authorization to be reasonable for the benefits. In addition, this paper presents a way to verify policies using a suite of tools transforming and checking policies as metagraphs. It is evident from the results that our verification method is very efficient regarding the size of the policies. Overall, this infrastructure and the mechanisms that verify the policy is correctly enforced, and then correctly implemented, help us deploy workflows in the cloud securely.
 

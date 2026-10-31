@@ -49,8 +49,9 @@ profiles:
 
 interests:
   - Blockchain
+  - Digital Currencies
   - Distributed Systems
-  - Internet Measurement
+  - Network Security
 
 education:
   - area: PhD in cybersecurity
@@ -85,8 +86,7 @@ education:
 work:
   - position: Associate professor
     company_name: CentraleSupélec
-    company_url: 'https://www.imt-atlantique.fr/'
-    company_logo: 'imt'
+    company_url: 'https://www.centralesupelec.fr/'
     date_start: 2025-10-01
     date_end: ''
     summary: |
@@ -107,46 +107,6 @@ work:
     date_end: '2024-02-29'
     summary: |
       Study on the use of blockchain in collaborative cybersecurity systems. Supervised by Prof. _Marc-Oliver Pahl_ (Cybersecurity for Critical Networked Infrastructures Chair -- Cyber CNI).
-
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python & PyTorch
-        description: ''
-        percent: 95
-        icon: code-bracket
-      - name: Machine Learning
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
-        percent: 85
-        icon: cloud
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking in the Rockies
-        description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
-        description: ''
-        percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
-        description: ''
-        percent: 70
-        icon: book-open
-
-languages:
-  - name: English
-    percent: 100
-  - name: French
-    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.

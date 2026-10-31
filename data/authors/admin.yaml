@@ -1,5 +1,5 @@
 # Author profile in the HugoBlox Kit schema (data/authors/<slug>.yaml), converted 2026-10-31 from
-# content/authors/admin/_index.md. Demo skills (Python & PyTorch, Hiking…) came with the old template: edit or remove.
+# content/authors/admin/_index.md (keep both in step).
 schema: hugoblox/author/v1
 slug: admin
 is_owner: true
@@ -37,8 +37,9 @@ links:
   url: https://orcid.org/0000-0003-4717-641X
 interests:
 - Blockchain
+- Digital Currencies
 - Distributed Systems
-- Internet Measurement
+- Network Security
 education:
 - degree: PhD in cybersecurity
   institution: University of Strasbourg
@@ -78,7 +79,7 @@ education:
 experience:
 - role: Associate professor
   org: CentraleSupélec
-  org_url: https://www.imt-atlantique.fr/
+  org_url: https://www.centralesupelec.fr/
   start: 2025-10-01
   summary: 'Study of digital currencies as a viable alternative, focusing on overcoming technological barriers to
     enable large-scale adoption.
@@ -103,28 +104,6 @@ experience:
     Pahl_ (Cybersecurity for Critical Networked Infrastructures Chair -- Cyber CNI).
 
     '
-skills:
-- name: Technical Skills
-  items:
-  - label: Python & PyTorch
-    level: 5
-  - label: Machine Learning
-    level: 5
-  - label: Cloud Computing (AWS/GCP)
-    level: 4
-- name: Hobbies
-  items:
-  - label: Hiking in the Rockies
-    level: 4
-  - label: Building Custom PCs
-    level: 4
-  - label: Sci-Fi Reading
-    level: 4
-languages:
-- name: English
-  level: 5
-- name: French
-  level: 5
 awards:
 - title: Best Paper Award "Short Track Student"
   url: https://hpsr2021.ieee-hpsr.org/program/best-paper/index.html

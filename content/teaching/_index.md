@@ -15,6 +15,35 @@ sections:
       title: 'Teaching'
       subtitle: ''
       text: |-
+        ## 2026 – 2027
+
+        | Course                                 | Institution              | Level | Lecture | Tutorial | Lab   |
+        | -------------------------------------- | ------------------------ | ----- | ------- | -------- | ----- |
+        | Blockchain Principles and Applications | ISTIC                    | M2    | 6h      |          | 9h    |
+        | Network Security                       | ISTIC                    | M2    | 1.5h    | 1.5h     | 3h    |
+        | Concurrent and Distributed Systems     | CentraleSupélec          | 3A    | 7.5h    |          | 4.5h  |
+        | Network and Hardware Security          | CentraleSupélec          | 3A    | 3h      |          | 3h    |
+        | Operating System Security              | CentraleSupélec          | 3A    |         |          | 10.5h |
+        | Careers in Research                    | CentraleSupélec          | 2A    | 6h      |          |       |
+        | Advanced Databases                     | CentraleSupélec          | 1A    | 4.5h    | 3h       | 12h   |
+        | Introduction to Computer Networks      | CentraleSupélec          | 1A    |         | 6h       | 16.5h |
+        | Introduction to Technical Project      | CentraleSupélec          | 1A    |         | 18h      |       |
+        | Networks and Security                  | CentraleSupélec          | 1A    |         | 3h       | 3h    |
+        | Creating for a World in Transition     | CentraleSupélec          | 1A    |         | 3h       |       |
+        | Install Party                          | CentraleSupélec          | 1A    |         | 3h       |       |
+
+        **Supervision**
+
+        | Type                      | Program         | Level | Hours |
+        | ------------------------- | --------------- | ----- | ----- |
+        | PhD                       | CentraleSupélec |       |       |
+        | PhD                       | IMT Atlantique  |       |       |
+        | Group project             | CentraleSupélec | 3A    | 15h   |
+        | Professional contract     | CentraleSupélec | 3A    | 12h   |
+        | Apprentice                | CentraleSupélec | 2A    | 12h   |
+
+        ---
+
         ## 2025 – 2026
 
         | Course                                 | Institution              | Level | Lecture | Tutorial | Lab   |
@@ -25,7 +54,7 @@ sections:
         | Operating System Security              | CentraleSupélec          | 3A    |         |          | 10.5h |
         | Advanced Databases                     | CentraleSupélec          | 1A    | 4.5h    | 3h       | 12h   |
         | Introduction to Computer Networks      | CentraleSupélec          | 1A    |         | 6h       | 16.5h |
-        | Introduction to Technical Project      | CentraleSupélec          | 1A    |         | 18h      |       |
+        | Introduction to Technical Project      | CentraleSupélec          | 1A    |         | 26h      |       |
         | Networks and Security                  | CentraleSupélec          | 1A    | 1.5h    | 6h       | 3h    |
 
         **Supervision**
