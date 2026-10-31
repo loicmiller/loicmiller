@@ -38,7 +38,8 @@ jobs:
       # One place states the Hugo version: hugoblox.yaml (build.hugo_version), the same file the local
       # `website` launcher reads, so the site builds here exactly as it does on the laptop.
       - name: Read Hugo version
-        run: echo "HUGO_VERSION=$(sed -n "s/^  hugo_version: *['\"]\{0,1\}\([0-9.]*\).*/\1/p" hugoblox.yaml)" >> "$GITHUB_ENV"
+        run: |
+          echo "HUGO_VERSION=$(sed -n "s/^  hugo_version: *['\"]\{0,1\}\([0-9.]*\).*/\1/p" hugoblox.yaml)" >> "$GITHUB_ENV"
       - name: Install Hugo CLI
         run: |
           wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
