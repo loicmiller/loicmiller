@@ -1,0 +1,136 @@
+# Author profile in the HugoBlox Kit schema (data/authors/<slug>.yaml), converted 2026-10-31 from
+# content/authors/admin/_index.md. Demo skills (Python & PyTorch, Hiking…) came with the old template: edit or remove.
+schema: hugoblox/author/v1
+slug: admin
+is_owner: true
+name:
+  display: Loïc Miller
+  given: Loïc
+  family: Miller
+  pronunciation: ''
+  pronouns: ''
+status:
+  icon: ''
+role: Associate Professor
+bio: 'I am currently an Associate Professor at CentraleSupélec, in the [PIRAT\'');](https://team.inria.fr/pirat/)
+  team.
+
+
+  My research focuses on the scalability and design of digital currencies and blockchain systems. I also worked
+  on network security, specifically BGP.
+
+  '
+affiliations:
+- name: CentraleSupélec
+  url: https://www.centralesupelec.fr/
+links:
+- icon: at-symbol
+  url: mailto:loic.miller@centralesupelec.fr
+  label: E-mail Me
+- icon: brands/x
+  url: https://x.com/millerloic
+- icon: brands/github
+  url: https://github.com/loicmiller
+- icon: academicons/google-scholar
+  url: https://scholar.google.com/citations?user=YOgS5sMAAAAJ
+- icon: academicons/orcid
+  url: https://orcid.org/0000-0003-4717-641X
+interests:
+- Blockchain
+- Distributed Systems
+- Internet Measurement
+education:
+- degree: PhD in cybersecurity
+  institution: University of Strasbourg
+  start: 2018-09-03
+  end: 2022-04-22
+  summary: '_Securing Workflows: On the Use of Microservices and Metagraphs to Prevent Data Exposures_ ([Slides](https://loicmiller.com/uploads/thesis-slides.pdf)).
+    Supervised by Prof. _Cristel Pelsser_, Prof. _Antoine Gallais_ and Associate Prof. _Pascal Mérindol_.
+
+    '
+  button:
+    text: Read Thesis
+    url: https://loicmiller.com/uploads/thesis-manuscript.pdf
+- degree: MSc in computer networks
+  institution: University of Strasbourg
+  start: 2016-09-01
+  end: 2018-08-31
+  summary: 'Final-year internship ([Slides](https://loicmiller.com/uploads/master-thesis-slides.pdf)). Supervised
+    by Prof. _Cristel Pelsser_ and Associate Prof. _Stéphane Cateloin_.
+
+
+    Development of a BGP routing data analyzer. Supervised by Prof. _Cristel Pelsser_.
+
+
+    Study on security in the Internet of Things. Supervised by Associate Prof. _Antoine Gallais_.
+
+    '
+  button:
+    text: Read Report
+    url: https://loicmiller.com/uploads/master-thesis.pdf
+- degree: BSc in computer science
+  institution: University of Strasbourg
+  start: 2013-09-02
+  end: 2016-07-31
+  summary: 'Development of a routing data analyzer. Supervised by Associate Prof. _Pascal Mérindol_.
+
+    '
+experience:
+- role: Associate professor
+  org: CentraleSupélec
+  org_url: https://www.imt-atlantique.fr/
+  start: 2025-10-01
+  summary: 'Study of digital currencies as a viable alternative, focusing on overcoming technological barriers to
+    enable large-scale adoption.
+
+    '
+- role: Postdoctoral researcher
+  org: IMT Atlantique
+  org_url: https://www.imt-atlantique.fr/
+  start: 2024-03-01
+  end: 2025-08-31
+  summary: 'Design and implementation of non-interactive proofs of proof-of-work in a variable difficulty environment
+    for blockchain scalability. Supervised by Associate Prof. _Romaric Ludinard_ (IMT Atlantique, IRISA) and Prof.
+    _Emmanuelle Anceaume_ (CNRS, IRISA).
+
+    '
+- role: Postdoctoral researcher
+  org: IMT Atlantique
+  org_url: https://www.imt-atlantique.fr/
+  start: 2022-09-01
+  end: 2024-02-29
+  summary: 'Study on the use of blockchain in collaborative cybersecurity systems. Supervised by Prof. _Marc-Oliver
+    Pahl_ (Cybersecurity for Critical Networked Infrastructures Chair -- Cyber CNI).
+
+    '
+skills:
+- name: Technical Skills
+  items:
+  - label: Python & PyTorch
+    level: 5
+  - label: Machine Learning
+    level: 5
+  - label: Cloud Computing (AWS/GCP)
+    level: 4
+- name: Hobbies
+  items:
+  - label: Hiking in the Rockies
+    level: 4
+  - label: Building Custom PCs
+    level: 4
+  - label: Sci-Fi Reading
+    level: 4
+languages:
+- name: English
+  level: 5
+- name: French
+  level: 5
+awards:
+- title: Best Paper Award "Short Track Student"
+  url: https://hpsr2021.ieee-hpsr.org/program/best-paper/index.html
+  date: 2021-06-10
+  awarder: IEEE HPSR
+  icon: hero/trophy
+  summary: 'For "Towards Secure and Leak-Free Workflows Using Microservice Isolation"
+
+    '

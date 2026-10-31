@@ -4,7 +4,9 @@
  * See: layouts/partials/hooks/head-end/custom-styles.html (loads this file)
  */
 
-/* Override max-w-prose constraints on markdown section */
+/* Override max-w-prose constraints on markdown section (HugoBlox Kit: #section-markdown; old builder: .blox-markdown) */
+#section-markdown .max-w-prose,
+#section-markdown .prose,
 .blox-markdown .max-w-prose {
   max-width: 100% !important;
 }
