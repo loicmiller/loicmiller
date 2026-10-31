@@ -34,7 +34,7 @@ sections:
 
         **Supervision**
 
-        | Type                      | Program         | Level | Hours |
+        | Type                      | Institution     | Level | Hours |
         | ------------------------- | --------------- | ----- | ----- |
         | PhD                       | CentraleSupélec |       |       |
         | PhD                       | IMT Atlantique  |       |       |
@@ -59,7 +59,7 @@ sections:
 
         **Supervision**
 
-        | Type                      | Program         | Level | Hours |
+        | Type                      | Institution     | Level | Hours |
         | ------------------------- | --------------- | ----- | ----- |
         | PhD                       | IMT Atlantique  |       |       |
         | Group project             | CentraleSupélec | 3A    | 15h   |
@@ -82,7 +82,7 @@ sections:
 
         **Supervision**
 
-        | Type        | Program              | Level | Hours |
+        | Type        | Institution          | Level | Hours |
         | ----------- | -------------------- | ----- | ----- |
         | PhD         | IMT Atlantique       | PhD   |       |
 
@@ -96,7 +96,7 @@ sections:
 
         **Supervision**
 
-        | Type       | Program               | Level | Hours |
+        | Type       | Institution           | Level | Hours |
         | ---------- | --------------------- | ----- | ----- |
         | Internship | Univ. of Strasbourg   | M2    |       |
         | Internship | Univ. of Rennes 1     | M2    |       |
@@ -107,7 +107,7 @@ sections:
 
         **Supervision**
 
-        | Type       | Program          | Level | Hours |
+        | Type       | Institution      | Level | Hours |
         | ---------- | ---------------- | ----- | ----- |
         | Internship | ENS Paris-Saclay | M2    |       |
 
@@ -130,7 +130,7 @@ sections:
 
         **Supervision**
 
-        | Type        | Program             | Level | Hours |
+        | Type        | Institution         | Level | Hours |
         | ----------- | ------------------- | ----- | ----- |
         | Internship  | Univ. of Strasbourg | M1    |       |
         | Internship  | Univ. of Strasbourg | M1    |       |
