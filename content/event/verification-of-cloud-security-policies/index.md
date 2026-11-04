@@ -49,7 +49,7 @@ links:
   # - type: code
   #   url: https://github.com
   - type: slides
-    url: verification-of-cloud-security-policies-slides.pdf
+    url: /publication/verification-of-cloud-security-policies/verification-of-cloud-security-policies-slides.pdf
   # - type: video
   #   url: https://youtube.com
 

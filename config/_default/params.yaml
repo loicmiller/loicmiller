@@ -26,7 +26,7 @@ hugoblox:
     description: "Academic CV and personal website of Loïc Miller."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
-      twitter: "GetResearchDev" # Twitter/X handle for Twitter Cards (without @)
+      twitter: "millerloic" # Twitter/X handle for Twitter Cards (without @)
 
   # ────────────────────────────────────────────────────────────────────────────
   # THEME

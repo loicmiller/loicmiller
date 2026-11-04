@@ -30,3 +30,11 @@
 .blox-markdown table th {
   padding: 0.6rem 0.8rem !important;
 }
+
+/* A page's tags go on several lines: on a phone, one line of them made the whole page scroll sideways. */
+.flex.justify-center:has(> a.no-underline.bg-primary-100) { flex-wrap: wrap; row-gap: .5rem; }
+
+/* A wide table scrolls by itself on a phone, not the whole page. */
+@media (max-width: 640px) {
+  .prose table, .blox-markdown table { display: block; overflow-x: auto; }
+}
