@@ -2,7 +2,6 @@
 title: A Taxonomy of Attacks Using BGP Blackholing
 
 event: European Symposium on Research in Computer Security
-event_url: https://esorics2019.uni.lu
 
 location: Luxembourg
 address:
